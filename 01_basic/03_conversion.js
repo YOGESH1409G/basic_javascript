@@ -31,6 +31,16 @@ let stringnumber = String(somenumber)
 
 //**************************operations********************//
 
+let value = 3
+let negvalue = -1
+// console.log(negvalue)   this will give -1
+
+console.log(2+2)
+console.log(2-2)
+console.log(2%2)
+console.log(22)
+console.log(2+2)
+console.log(2+2)
 
 
 
