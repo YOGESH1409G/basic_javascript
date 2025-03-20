@@ -1,3 +1,6 @@
+// js is dynamically typed; cuz No need to declare types: You don’t specify variable types like int, string, or boolean.
+//Types can change at runtime: A variable can hold a number, then later be assigned a string.
+
 const accountId= 144553
 let accountEmail = "yogeshg@gmail.com"
 var accountPassword="12345"
