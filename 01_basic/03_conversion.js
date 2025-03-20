@@ -35,12 +35,35 @@ let value = 3
 let negvalue = -1
 // console.log(negvalue)   this will give -1
 
-console.log(2+2)
-console.log(2-2)
-console.log(2%2)
-console.log(22)
-console.log(2+2)
-console.log(2+2)
+// console.log(2+2)
+// console.log(2-2)
+// console.log(2%2)
+// console.log(2**2)
+// console.log(2/2)
+// console.log(2%2)
+
+let str1 ="gello"
+let str2 =" hello"
+
+let str3 = str1+str2
+// console.log(str3);
+
+// console.log("1" +2); ans 12
+// console.log(1 +"2");same as upper
+// console.log("1" +2 + 2);ans 122
+// console.log(1 +2 +"2");ans 32
+
+// console.log(+true); ans 1
+
+// let gamecounter =100
+// ++gamecounter;
+// console.log(gamecounter); ans 10
+
+
+
+
+
+
 
 
 
