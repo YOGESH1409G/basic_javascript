@@ -53,6 +53,8 @@ function addone(num){
 
 
 addTwo(5)
-const addTwo = function(num){
-    return num + 2
-}
+// const addTwo = function(num){ kabhi kabhi inhe expression bhi kaha jata hai 
+//     return num + 2
+// }
+
+// jab hum expression type mein function banate hai aur usko pehle access karne ki koshish karte hai toh error deta hai which is reference error.
